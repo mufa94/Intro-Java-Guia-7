@@ -22,7 +22,7 @@ Crea un procedimiento EsMultiplo que reciba los dos números pasados por el usua
             int num1 = sc.nextInt();
             System.out.print("Ingrese el segundo número: ");
             int num2 = sc.nextInt();
-            EsMultiplo(num1, num2);
+            EsMultiplo(num1, num2);// comentario cualquiera para git
         }
     }
 
